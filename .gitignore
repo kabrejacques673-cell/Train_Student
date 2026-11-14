@@ -83,3 +83,8 @@ supabase/.temp/
 .env
 supabase/.temp/
 supabase/.branches/
+
+*.bak
+.env
+supabase/.temp/
+supabase/.branches/
