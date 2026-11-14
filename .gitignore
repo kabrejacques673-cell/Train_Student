@@ -88,3 +88,5 @@ supabase/.branches/
 .env
 supabase/.temp/
 supabase/.branches/
+
+android/build/
